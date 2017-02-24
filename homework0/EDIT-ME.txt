@@ -1,0 +1,13 @@
+Simple questionaire for CS 5600.
+
+Please add your answers at the end of the lines and save the file,
+then commit and push to the repository.
+
+
+Your name:Priyank Kumar
+
+C programming skills (high/medium/low/none): Low
+
+Previous operating systems class (yes/no): Yes In Undergraduate
+
+Prefer to work on campus (yes/no): Yes
